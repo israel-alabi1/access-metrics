@@ -1,3 +1,4 @@
+[![Node.js CI](https://github.com/israel-alabi1/access-metrics/actions/workflows/node.js.yml/badge.svg)](https://github.com/israel-alabi1/access-metrics/actions/workflows/node.js.yml)
 # AccessMetrics
 
 **An interactive prototype for accessible product experiences and simulated accessibility analytics.**
